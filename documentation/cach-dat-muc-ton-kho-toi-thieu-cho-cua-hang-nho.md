@@ -1,3 +1,7 @@
+---
+description: "Cách đặt mức tồn kho tối thiểu cho cửa hàng nhỏ theo quy trình ba bước, kèm cách đưa ngưỡng vào phần mềm quản lý kho để tự động cảnh báo."
+---
+
 # Cách đặt mức tồn kho tối thiểu cho cửa hàng nhỏ
 
 Nhiều cửa hàng tạp hoá, mỹ phẩm hay vật tư nhỏ đang đặt mức tồn kho tối thiểu theo cảm tính. Ví dụ, thấy sữa tắm bán cũng được thì đặt ngưỡng 10 chai, dầu gội thì 5 chai. Kết quả là hàng bán chạy vẫn hết đúng lúc khách hỏi nhiều, còn hàng chậm luân chuyển thì chất đầy kệ, đọng vốn.
