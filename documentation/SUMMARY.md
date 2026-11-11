@@ -1,4 +1,27 @@
 # Table of contents
 
-* [Page](README.md)
-* [Cách đặt mức tồn kho tối thiểu cho cửa hàng nhỏ](cach-dat-muc-ton-kho-toi-thieu-cho-cua-hang-nho.md)
+* [Welcome](README.md)
+
+## Getting Started
+
+* [Getting started](getting-started/getting-started.md)
+* [Quickstart](getting-started/quickstart.md)
+* [Your first project](getting-started/your-first-project.md)
+
+## Core concepts
+
+* [Core concepts](core-concepts/core-concepts.md)
+* [Workspaces and projects](core-concepts/workspaces-and-projects.md)
+* [Permissions](core-concepts/permissions.md)
+
+## Guides
+
+* [Guides](guides/guides.md)
+* [Custom domains](guides/custom-domains.md)
+* [Automations](guides/automations.md)
+
+## Reference
+
+* [Reference](reference/reference.md)
+* [Configuration](reference/configuration.md)
+* [Glossary](reference/glossary.md)
